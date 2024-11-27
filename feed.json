@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "upadloscikonsumenckie.org",
+    "title": "Upadłość Konsumencka Zalewscy Sp. z o.o",
     "description": "",
     "home_page_url": "https://kherflik.github.io/upadloscikonsumenckie.org",
     "feed_url": "https://kherflik.github.io/upadloscikonsumenckie.org/feed.json",
@@ -11,9 +11,27 @@
     },
     "items": [
         {
+            "id": "https://kherflik.github.io/upadloscikonsumenckie.org/blog.html",
+            "url": "https://kherflik.github.io/upadloscikonsumenckie.org/blog.html",
+            "title": "Czy Konsument Ma Obowiązek Składania Wniosku o Upadłość? Wyjaśnienie Prawne i Społeczne Konsekwencje",
+            "summary": "Napisała do mnie wiadomość Pani Kamila z Poznania z zapytaniem, czy jako konsument ma obowiązek złożyć wniosek o upadłość analogicznie jak w przypadku przedsiębiorcy. Konsument nie ma obowiązku złożenia wniosku o upadłość w sytuacji wystąpienia stanu niewypłacalności, a brak ogłoszenia upadłości przez konsumenta nie pociąga&hellip;",
+            "content_html": "<p class=\"dropcap\">Napisała do mnie wiadomość Pani Kamila z Poznania z zapytaniem, czy jako konsument ma obowiązek złożyć wniosek o upadłość analogicznie jak w przypadku przedsiębiorcy.</p>\n<p>Konsument nie ma obowiązku złożenia wniosku o upadłość w sytuacji wystąpienia stanu niewypłacalności, a brak ogłoszenia upadłości przez konsumenta nie pociąga za sobą żadnych negatywnych skutków prawnych. Upadłość jest dla konsumenta prawem czy nawet przywilejem, a nie jest i nigdy nie była obowiązkiem. Ustawodawca bardziej restrykcyjnie uregulował w tym zakresie sytuację przedsiębiorców, gdzie za brak złożenia wniosku w terminie 30 dni od dnia wystąpienia stanu niewypłacalności grożą konsekwencje karne, włącznie z karą pozbawienia wolności do lat dwóch, czy wynikający z ustawy prawo upadłościowe zakaz wykonywania działalności gospodarczej nawet do lat 10.</p>\n<p>Cel odmiennego traktowania konsumenta przez ustawodawcę był w głównej mierze oparty na przesłankach społecznych i gospodarczych poprzez zapobieganie wykluczeniu społecznemu i dziedziczeniu bezradności przez potomków oraz zapewnienie reintegracji dłużników w obrocie gospodarczym, zmniejszenie „szarej strefy” i zwiększenie przychodów Skarbu Państwa. Nie bez znaczenia pozostaje również silny aspekt gospodarczy w postaci korzyści dla wierzycieli w obszarze odpisów podatkowych w dokumentach księgowych wierzycieli, uniknięcie wysokich kosztów sądowych oraz częściowa spłata zadłużenia przez dłużnika w ramach planu spłaty. Należy mieć na uwadze również pozytywny wpływ na rynek pożyczek konsumenckich, co przyczynia się do rozwoju gospodarki poprzez chociażby pobudzenie popytu.</p>\n<p>Reasumując należy zaznaczyć, że złożenie wniosku o upadłość konsumencką ma walor odpowiedzialnej postawy obywatelskiej konsumenta, znającego swoje prawa i umiejętnie z niego korzystającego dla poprawy swojej sytuacji finansowej i powrotu na rynek pracy i gospodarczy.</p>",
+            "image": "https://kherflik.github.io/upadloscikonsumenckie.org/media/posts/8/blog1.webp",
+            "author": {
+                "name": "Alicja Zalewska"
+            },
+            "tags": [
+                   "Blog"
+            ],
+            "date_published": "2024-11-27T11:56:30+01:00",
+            "date_modified": "2024-11-27T12:36:49+01:00"
+        },
+        {
             "id": "https://kherflik.github.io/upadloscikonsumenckie.org/kontakt.html",
             "url": "https://kherflik.github.io/upadloscikonsumenckie.org/kontakt.html",
             "title": "Kontakt",
+            "summary": "UPADŁOŚĆ KONSUMENCKA ZALEWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ Adres: ul. Słabocin 19, 56-330 Cieszków NIP: 9161404954 Telefon: 666 591 767 Email: upadlosczalewscy@wp.pl Spotkanie: Po wcześniejszym ustaleniu terminu",
+            "content_html": "<section>\n<h3>UPADŁOŚĆ KONSUMENCKA ZALEWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</h3>\n<p><strong>Adres:</strong><br>ul. Słabocin 19,<br>56-330 Cieszków</p>\n<p><strong>NIP:</strong> 9161404954</p>\n<p><strong>Telefon:</strong> <a href=\"tel:+48666591767\">666 591 767</a></p>\n<p><strong>Email:</strong> <a href=\"mailto:upadlosczalewscy@wp.pl\">upadlosczalewscy@wp.pl</a></p>\n<p><strong>Spotkanie:</strong> Po wcześniejszym ustaleniu terminu</p>\n</section>",
             "image": "https://kherflik.github.io/upadloscikonsumenckie.org/media/posts/7/scott-graham-OQMZwNd3ThU-unsplash.jpg",
             "author": {
                 "name": "Alicja Zalewska"
@@ -21,40 +39,14 @@
             "tags": [
             ],
             "date_published": "2024-11-12T13:26:24+01:00",
-            "date_modified": "2024-11-13T10:17:38+01:00"
-        },
-        {
-            "id": "https://kherflik.github.io/upadloscikonsumenckie.org/strona-2.html",
-            "url": "https://kherflik.github.io/upadloscikonsumenckie.org/strona-2.html",
-            "title": "Strona 2",
-            "author": {
-                "name": "Alicja Zalewska"
-            },
-            "tags": [
-                   "Blog"
-            ],
-            "date_published": "2024-11-12T10:52:38+01:00",
-            "date_modified": "2024-11-12T10:52:38+01:00"
-        },
-        {
-            "id": "https://kherflik.github.io/upadloscikonsumenckie.org/strona-1.html",
-            "url": "https://kherflik.github.io/upadloscikonsumenckie.org/strona-1.html",
-            "title": "Strona 1",
-            "author": {
-                "name": "Alicja Zalewska"
-            },
-            "tags": [
-                   "Blog"
-            ],
-            "date_published": "2024-11-12T10:52:28+01:00",
-            "date_modified": "2024-11-12T10:52:28+01:00"
+            "date_modified": "2024-11-27T12:33:38+01:00"
         },
         {
             "id": "https://kherflik.github.io/upadloscikonsumenckie.org/strona-glowna-2.html",
             "url": "https://kherflik.github.io/upadloscikonsumenckie.org/strona-glowna-2.html",
             "title": "Strona Główna",
-            "summary": "Upadłość konsumencka Postępowanie sądowe skierowane do osób fizycznych, które nie prowadzą działalności gospodarczej i stały się niewypłacalne, nie z własnej winy ani rażącego niedbalstwa. Celem tego procesu jest całkowite oddłużenie dłużnika, umożliwiając mu wyjście z trudnej sytuacji finansowej i rozpoczęcie życia na nowo bez ciężaru&hellip;",
-            "content_html": "<h3>Upadłość konsumencka</h3>\n<p>Postępowanie sądowe skierowane do osób fizycznych, które nie prowadzą działalności gospodarczej i stały się niewypłacalne, nie z własnej winy ani rażącego niedbalstwa. Celem tego procesu jest całkowite oddłużenie dłużnika, umożliwiając mu wyjście z trudnej sytuacji finansowej i rozpoczęcie życia na nowo bez ciężaru dotychczasowych zobowiązań. Dzięki upadłości konsumenckiej osoba zadłużona może uzyskać szansę na spłatę długów w kontrolowany sposób, a w końcowym efekcie – uzyskać pełne oddłużenie. Procedura ta pozwala zatrzymać narastanie długów, a także przerwać działania komornicze i inne postępowania egzekucyjne.</p>\n<p class=\"msg msg--success\">Z naszym wsparciem skutecznie złożą Państwo wniosek o upadłość konsumencką, przechodząc przez wszystkie etapy postępowania. Dzięki naszemu doświadczeniu i zaangażowaniu pomożemy Państwu osiągnąć pełne oddłużenie i nowy start finansowy.</p>\n<p class=\"align-center\"><a href=\"https://kherflik.github.io/upadloscikonsumenckie.org/kontakt.html\" class=\"btn btn-primary btn-large\" style=\"border-radius: 0;\">[li=phone]<span style=\"padding-left: 10px;\">Skontaktuj się z nami</span></a></p>",
+            "summary": "Upadłość Konsumencka – Skuteczne Oddłużenie Co to jest upadłość konsumencka? Upadłość konsumencka to postępowanie sądowe skierowane do osób fizycznych, które nie prowadzą działalności gospodarczej i stały się niewypłacalne, nie z własnej winy ani rażącego niedbalstwa. Celem tego procesu jest całkowite oddłużenie dłużnika, umożliwiając mu wyjście&hellip;",
+            "content_html": "<h1>Upadłość Konsumencka – Skuteczne Oddłużenie</h1>\n<section>\n<h3>Co to jest upadłość konsumencka?</h3>\n<p>Upadłość konsumencka to postępowanie sądowe skierowane do osób fizycznych, które nie prowadzą działalności gospodarczej i stały się niewypłacalne, nie z własnej winy ani rażącego niedbalstwa. Celem tego procesu jest całkowite oddłużenie dłużnika, umożliwiając mu wyjście z trudnej sytuacji finansowej i rozpoczęcie życia na nowo bez ciężaru dotychczasowych zobowiązań.</p>\n<p>Upadłość konsumencka daje szansę na spłatę długów w kontrolowany sposób, zatrzymując narastanie zadłużenia i przerwanie działań komorniczych oraz innych postępowań egzekucyjnych. Dłużnik może odzyskać kontrolę nad swoją sytuacją finansową i uzyskać pełne oddłużenie.</p>\n</section>\n<section>\n<h3>Korzyści z upadłości konsumenckiej</h3>\n<ul>\n<li><strong>Oddłużenie:</strong> Spłata długów w sposób kontrolowany i zgodny z planem spłat.</li>\n<li><strong>Nowy start:</strong> Po zakończeniu procesu upadłości konsument może zacząć życie bez obciążenia długami.</li>\n<li><strong>Ochrona przed komornikiem:</strong> Zatrzymanie działań egzekucyjnych i zabezpieczenie majątku dłużnika.</li>\n<li><strong>Poprawa sytuacji finansowej:</strong> Reintegracja dłużnika w obrocie gospodarczym i społecznym.</li>\n</ul>\n</section>\n<section>\n<h3>Jak złożyć wniosek o upadłość konsumencką?</h3>\n<p>Proces składania wniosku o upadłość konsumencką może być skomplikowany, ale z naszym wsparciem jest to prostsze. Pomożemy Ci przejść przez wszystkie etapy postępowania, abyś mógł uzyskać pełne oddłużenie. Dzięki naszemu doświadczeniu i zaangażowaniu pomożemy Ci odbudować Twoją sytuację finansową.</p>\n<p class=\"msg msg--success\">Z naszym wsparciem skutecznie złożą Państwo wniosek o upadłość konsumencką i przejdą przez wszystkie etapy postępowania.</p>\n</section>\n<section class=\"align-center\">\n<p><a href=\"https://kherflik.github.io/upadloscikonsumenckie.org/kontakt.html\" class=\"btn btn-primary btn-large\" style=\"border-radius: 0;\">[li=phone]<span style=\"padding-left: 10px;\">Skontaktuj się z nami</span></a></p>\n</section>",
             "image": "https://kherflik.github.io/upadloscikonsumenckie.org/media/posts/4/closeup-shot-person-writing-book-with-gavel-table.jpg",
             "author": {
                 "name": "Alicja Zalewska"
@@ -62,7 +54,7 @@
             "tags": [
             ],
             "date_published": "2024-11-12T10:38:56+01:00",
-            "date_modified": "2024-11-13T15:53:46+01:00"
+            "date_modified": "2024-11-27T12:32:13+01:00"
         },
         {
             "id": "https://kherflik.github.io/upadloscikonsumenckie.org/jak-dzialamy.html",
@@ -83,8 +75,8 @@
             "id": "https://kherflik.github.io/upadloscikonsumenckie.org/o-mnie.html",
             "url": "https://kherflik.github.io/upadloscikonsumenckie.org/o-mnie.html",
             "title": "O mnie",
-            "summary": "Absolwentka Wydziału Prawa Administracji i Ekonomii Uniwersytetu Wrocławskiego. Absolwentka Wydziału Nauk Społecznych na Uniwersytecie Wrocławskim. Pomimo tego, iż pracę dyplomową obroniłam z prawa karnego wykonawczego to moja ścieżka zawodowa poszła w kierunku prawa upadłościowego i naprawczego i w tym celu ukończyłam studia podyplomowe na Uniwersytecie&hellip;",
-            "content_html": "<p style=\"margin-bottom: 20px;\"><strong>Absolwentka Wydziału Prawa Administracji i Ekonomii Uniwersytetu Wrocławskiego.</strong> Absolwentka Wydziału Nauk Społecznych na Uniwersytecie Wrocławskim. Pomimo tego, iż pracę dyplomową obroniłam z prawa karnego wykonawczego to moja ścieżka zawodowa poszła w kierunku prawa upadłościowego i naprawczego i w tym celu ukończyłam studia podyplomowe na Uniwersytecie Jagiellońskim na Wydziale Prawa na kierunku prawo upadłościowe i restrukturyzacyjne.</p>\n<p style=\"margin-bottom: 20px;\">Obecnie, jako <strong>specjalista do spraw upadłości</strong>, wykorzystując ekspercką wiedzę zdobytą na studiach w tym procedury i przepisy prawa, zajmuję się głównie upadłością konsumencką. Swoją wiedzę cały czas rozwijam i udoskonalam, aktywnie uczestnicząc w konferencjach i szkoleniach w przedmiotowej dziedzinie.</p>",
+            "summary": "O mnie – Ekspert w zakresie upadłości konsumenckiej Jestem absolwentką Wydziału Prawa Administracji i Ekonomii Uniwersytetu Wrocławskiego oraz Wydziału Nauk Społecznych Uniwersytetu Wrocławskiego. Choć początkowo moja praca dyplomowa dotyczyła prawa karnego wykonawczego, moja ścieżka zawodowa szybko ukierunkowała się na prawo upadłościowe i naprawcze. Aby pogłębić&hellip;",
+            "content_html": "<section>\n<h3>O mnie – Ekspert w zakresie upadłości konsumenckiej</h3>\n<p>Jestem absolwentką <strong>Wydziału Prawa Administracji i Ekonomii Uniwersytetu Wrocławskiego</strong> oraz <strong>Wydziału Nauk Społecznych Uniwersytetu Wrocławskiego</strong>. Choć początkowo moja praca dyplomowa dotyczyła prawa karnego wykonawczego, moja ścieżka zawodowa szybko ukierunkowała się na prawo upadłościowe i naprawcze. Aby pogłębić swoją wiedzę w tej dziedzinie, ukończyłam <strong>studia podyplomowe na Uniwersytecie Jagiellońskim na Wydziale Prawa</strong>, na kierunku prawo upadłościowe i restrukturyzacyjne.</p>\n<p>Obecnie, jako <strong>specjalista do spraw upadłości</strong>, wykorzystuję swoją ekspercką wiedzę w zakresie przepisów prawa, procedur oraz doświadczenia praktycznego, koncentrując się głównie na <strong>upadłości konsumenckiej</strong>. Zajmuję się doradztwem prawnym, pomagając osobom fizycznym, które znalazły się w trudnej sytuacji finansowej, uzyskać szansę na nowy start.</p>\n<p>Moje podejście do pracy charakteryzuje się profesjonalizmem oraz zaangażowaniem. Wiedzę nieustannie rozwijam poprzez <strong>uczestnictwo w konferencjach, szkoleniach oraz warsztatach</strong> dotyczących prawa upadłościowego. Dzięki temu jestem na bieżąco z aktualnymi zmianami w przepisach prawnych, co pozwala mi zapewniać moim klientom kompleksową pomoc prawną na najwyższym poziomie.</p>\n<p>Posiadam również praktyczne doświadczenie w zakresie przygotowywania wniosków o upadłość konsumencką oraz reprezentowania klientów przed sądami, co stanowi dla mnie wyjątkową okazję do pomocy osobom borykającym się z trudnymi sytuacjami finansowymi. W pracy kieruję się zawsze dobrem klienta, starając się zaoferować rozwiązania, które pozwolą na jak najszybszy powrót do normalności finansowej i społecznej.</p>\n</section>",
             "image": "https://kherflik.github.io/upadloscikonsumenckie.org/media/posts/2/pexels-pixabay-357514.jpg",
             "author": {
                 "name": "Alicja Zalewska"
@@ -92,7 +84,7 @@
             "tags": [
             ],
             "date_published": "2024-11-12T10:31:18+01:00",
-            "date_modified": "2024-11-13T15:53:02+01:00"
+            "date_modified": "2024-11-27T12:31:04+01:00"
         }
     ]
 }
