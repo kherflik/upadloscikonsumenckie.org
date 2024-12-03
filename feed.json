@@ -30,8 +30,8 @@
             "id": "https://upadloscikonsumenckie.org/kontakt.html",
             "url": "https://upadloscikonsumenckie.org/kontakt.html",
             "title": "Kontakt",
-            "summary": "UPADŁOŚĆ KONSUMENCKA ZALEWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ Adres: ul. Słabocin 19, 56-330 Cieszków NIP: 9161404954 Telefon: 666 591 767 Email: upadlosczalewscy@wp.pl Spotkanie: Po wcześniejszym ustaleniu terminu",
-            "content_html": "<section>\n<h3>UPADŁOŚĆ KONSUMENCKA ZALEWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</h3>\n<p><strong>Adres:</strong><br>ul. Słabocin 19,<br>56-330 Cieszków</p>\n<p><strong>NIP:</strong> 9161404954</p>\n<p><strong>Telefon:</strong> <a href=\"tel:+48666591767\">666 591 767</a></p>\n<p><strong>Email:</strong> <a href=\"mailto:upadlosczalewscy@wp.pl\">upadlosczalewscy@wp.pl</a></p>\n<p><strong>Spotkanie:</strong> Po wcześniejszym ustaleniu terminu</p>\n</section>",
+            "summary": "UPADŁOŚĆ KONSUMENCKA ZALEWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ [li=book-user] Adres: ul. Słabocin 19, 56-330 Cieszków [li=handshake] NIP: 9161404954 [li=phone] Telefon: 666 591 767 [li=mail] Email: upadlosczalewscy@wp.pl Spotkanie: Po wcześniejszym ustaleniu terminu",
+            "content_html": "<section>\n<h3>UPADŁOŚĆ KONSUMENCKA ZALEWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</h3>\n<p>[li=book-user] <strong>Adres:</strong><br>ul. Słabocin 19,<br>56-330 Cieszków</p>\n<p>[li=handshake] <strong>NIP:</strong> 9161404954</p>\n<p>[li=phone] <strong>Telefon:</strong> <a href=\"tel:+48666591767\">666 591 767</a></p>\n<p>[li=mail] <strong>Email:</strong> <a href=\"mailto:upadlosczalewscy@wp.pl\">upadlosczalewscy@wp.pl</a></p>\n<p><strong>Spotkanie:</strong> Po wcześniejszym ustaleniu terminu</p>\n</section>",
             "image": "https://upadloscikonsumenckie.org/media/posts/7/scott-graham-OQMZwNd3ThU-unsplash.jpg",
             "author": {
                 "name": "Alicja Zalewska"
@@ -39,7 +39,7 @@
             "tags": [
             ],
             "date_published": "2024-11-12T13:26:24+01:00",
-            "date_modified": "2024-11-27T12:33:38+01:00"
+            "date_modified": "2024-12-03T09:51:37+01:00"
         },
         {
             "id": "https://upadloscikonsumenckie.org/strona-glowna-2.html",

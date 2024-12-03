@@ -3,7 +3,7 @@
     <title>Upadłość Konsumencka Zalewscy Sp. z o.o</title>
     <link href="https://upadloscikonsumenckie.org/feed.xml" rel="self" />
     <link href="https://upadloscikonsumenckie.org" />
-    <updated>2024-11-27T12:36:49+01:00</updated>
+    <updated>2024-12-03T09:51:37+01:00</updated>
     <author>
         <name>Alicja Zalewska</name>
     </author>
@@ -49,7 +49,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://upadloscikonsumenckie.org/media/posts/7/scott-graham-OQMZwNd3ThU-unsplash.jpg" alt="" />
-                    UPADŁOŚĆ KONSUMENCKA ZALEWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ Adres: ul. Słabocin 19, 56-330 Cieszków NIP: 9161404954 Telefon: 666 591 767 Email: upadlosczalewscy@wp.pl Spotkanie: Po wcześniejszym ustaleniu terminu
+                    UPADŁOŚĆ KONSUMENCKA ZALEWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ [li=book-user] Adres: ul. Słabocin 19, 56-330 Cieszków [li=handshake] NIP: 9161404954 [li=phone] Telefon: 666 591 767 [li=mail] Email: upadlosczalewscy@wp.pl Spotkanie: Po wcześniejszym ustaleniu terminu
                 ]]>
             </summary>
         <content type="html">
@@ -57,10 +57,10 @@
                     <p><img src="https://upadloscikonsumenckie.org/media/posts/7/scott-graham-OQMZwNd3ThU-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <section>
 <h3>UPADŁOŚĆ KONSUMENCKA ZALEWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</h3>
-<p><strong>Adres:</strong><br>ul. Słabocin 19,<br>56-330 Cieszków</p>
-<p><strong>NIP:</strong> 9161404954</p>
-<p><strong>Telefon:</strong> <a href="tel:+48666591767">666 591 767</a></p>
-<p><strong>Email:</strong> <a href="mailto:upadlosczalewscy@wp.pl">upadlosczalewscy@wp.pl</a></p>
+<p>[li=book-user] <strong>Adres:</strong><br>ul. Słabocin 19,<br>56-330 Cieszków</p>
+<p>[li=handshake] <strong>NIP:</strong> 9161404954</p>
+<p>[li=phone] <strong>Telefon:</strong> <a href="tel:+48666591767">666 591 767</a></p>
+<p>[li=mail] <strong>Email:</strong> <a href="mailto:upadlosczalewscy@wp.pl">upadlosczalewscy@wp.pl</a></p>
 <p><strong>Spotkanie:</strong> Po wcześniejszym ustaleniu terminu</p>
 </section>
             ]]>
